@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+---
+
+## Initialize Libraries
+
+### `npm install`
+
+Run this command after freshly cloning the repo, to initialize the npm libraries.
+
 ## Available Scripts
 
 In the project directory, you can run:
